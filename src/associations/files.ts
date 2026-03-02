@@ -7,6 +7,8 @@ export const files: IconMap = {
   apollo: ['apollo.config.js', 'apollo.config.ts'],
   appveyor: ['.appveyor.yml', 'appveyor.yml'],
   artistic_style: ['.astylerc'],
+  interlocked_config: ['sim.json'],
+  interlocked_authoring_format: ['.iaf'],
   astro_config: [
     'astro.config.js',
     'astro.config.mjs',
