@@ -19,6 +19,7 @@ export const extensions: IconMap = {
     'vdp',
     'vox',
   ],
+  image: ['iaf'],
   advpl: ['prw', 'prx', 'ptm', 'tlpp', 'ch'],
   android: ['apk', 'smali', 'dex'],
   angular: ['ng-template'],
